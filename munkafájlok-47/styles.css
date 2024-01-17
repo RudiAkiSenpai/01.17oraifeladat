@@ -80,9 +80,11 @@ body{
 form{
     background-color: #eee;
     width: 900px;
+    margin: 0 auto 0 auto;
 }
 legend{
-    font-size: 1.1em;
+    font-size: 20px;
+    font-weight: bold;
 }
 form h1{
     background-color: #ddf;
@@ -124,7 +126,14 @@ table{
 }
 th{
     padding: 5px;
+    background-color: #060;
+    color: #fff;
 }
 td{
     border-bottom: 1px dotted #888;
+    padding: 5px;
+    vertical-align: bottom;
+}
+#tartalom.kozep{
+    text align: center;
 }
