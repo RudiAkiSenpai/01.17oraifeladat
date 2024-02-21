@@ -1,0 +1,15 @@
+#header{
+	background-image: linear-gradient(gray, #D3D3D3);
+	text-align: center;
+	size: 20px;
+	color: white;
+	font-size: 60px;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: black;
+	width: 75%;
+	margin: 0 auto 0 auto;
+}
+#main{
+	
+}
+
